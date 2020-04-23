@@ -1,4 +1,4 @@
-name: jsonpath
+name: jsonpath_parse
 description: A Flutter plugin which support read on json string using json Path.
 author: forked from <qhzhyt/dart-json-path>
 homepage: https://github.com/Celeter/jsonpath_parse
