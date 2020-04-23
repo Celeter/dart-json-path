@@ -1,4 +1,4 @@
-import '../src/jpath.dart';
+import '../lib/src/jpath.dart';
 
 searchAll(input) {
   if (input is List) {
